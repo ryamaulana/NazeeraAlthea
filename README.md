@@ -50,7 +50,7 @@ I enjoy turning raw data (audio & video) into structured insights using practica
 ### Backend & MLOps
 <p>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="42" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="42" title="MLflow"/>
+  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="42" title="Docker"/>
 </p>
 
