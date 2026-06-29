@@ -11,32 +11,6 @@ I enjoy turning raw data (audio & video) into structured insights using practica
 
 ---
 
-## 🚀 Machine Learning Highlights
-
-- **AI-Powered Interview Assessment System**
-  - Multimodal ML (Audio + Vision)
-  - ASR pipeline: VAD → Diarization → Faster-Whisper
-  - Computer Vision: eye movement, head pose, multi-person detection
-  - Confidence scoring & anomaly (cheating) detection
-  - FastAPI + Streamlit for inference & visualization
-
-- **Computer Vision Projects**
-  - Eye gaze & eye movement estimation (MediaPipe, custom ML models)
-  - Head pose analysis & temporal segmentation
-  - Human posture recognition
-
-- **Deep Learning**
-  - CNN image classification (multiclass)
-  - TensorFlow / Keras training & evaluation
-  - Model export & optimization (SavedModel, TFJS)
-
-- **ML Engineering & Evaluation**
-  - Experiment tracking with MLflow
-  - WER evaluation for ASR
-  - CPU/GPU inference trade-offs & OpenVINO exploration
-
----
-
 ## 🛠️ Tech Stack (ML-Focused)
 
 ### Machine Learning & Data
